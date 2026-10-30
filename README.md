@@ -131,13 +131,13 @@ The following screenshots document the lab setup.
 
 Adapter 1 is enabled and attached to a NAT Network, with promiscuous mode set to Allow All and the virtual cable connected.
 
-![VirtualBox Network Settings](screenshots/network-settings.png)
+![VirtualBox Network Settings](screenshots/network-settings.jpg)
 
 ### 3. Network Connectivity Verification
 
 Opened the browser inside Kali Linux and searched Google for "cybersecurity" to confirm the VM has internet access.
 
-![Kali Internet Connectivity](screenshots/connectivity-test.png)
+![Kali Internet Connectivity](screenshots/connectivity-test.jpg)
 
 ---
 
