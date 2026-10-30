@@ -168,7 +168,6 @@ During the setup process, technical issues may occur while configuring the virtu
 - Checked the virtualization configuration.
 - Restarted the virtual machine after applying any necessary changes.
 
-**Result:** Document the actual issue and the solution you used.
 
 ---
 
