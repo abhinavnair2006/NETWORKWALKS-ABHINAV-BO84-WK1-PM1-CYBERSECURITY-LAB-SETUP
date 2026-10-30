@@ -125,7 +125,7 @@ The following screenshots document the lab setup.
 
 ### 1. Kali Linux Virtual Machine
 
-![Kali Linux Virtual Machine](screenshots/kali-vm.png)
+![Kali Linux Virtual Machine](screenshots/kali-vm.jpg)
 
 ### 2. VirtualBox Network Adapter Settings
 
